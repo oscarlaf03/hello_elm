@@ -8,7 +8,7 @@ view model =
     div [ class "jumbotron" ]
         [ h1 [] [ text "Welcome to Dunder Mifflin!" ]
         , p []
-            [ text "Dunder Mifflin Inc. (stock symbol "
+            [ text "Dunder Bolovan Inc. (stock symbol "
             , strong [] [ text "DMI" ]
             , text <|
                 """ 
